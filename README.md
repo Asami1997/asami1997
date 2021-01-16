@@ -19,6 +19,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=asami1997&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asami1997&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a> 
