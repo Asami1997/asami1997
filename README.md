@@ -2,7 +2,7 @@
 > \- Steve Jobs
 
 
-- 🔭 I’m currently working on: Data Anlysis with Python
+- 🔭 I’m currently working on: Data Analysis with Python
 - 🌱 I’m currently learning: New ways to manipulate and harness data  
 
 ### Languages and Tools:
