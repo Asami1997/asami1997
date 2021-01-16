@@ -1,5 +1,5 @@
-> Waste no more time arguing about what a good man should be. Be one.
-> \- Marcus Aurelius
+> Stay hungry. Stay foolish
+> \- Steve Jobs
 
 
 - 🔭 I’m currently working on: Data Anlysis with Python
