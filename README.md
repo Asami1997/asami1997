@@ -10,7 +10,7 @@
 <img align="left" alt="Spyder" width="26px" src="https://github.com/spyder-ide/spyder/blob/master/img_src/spyder.ico" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Power BI" width="146px" src="http://v3.dtravela.com/uploads/0000/1/2021/01/26/power-bi.png" />
+<img align="left" alt="Power BI" width="100px" src="http://v3.dtravela.com/uploads/0000/1/2021/01/26/power-bi.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
